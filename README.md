@@ -2,7 +2,6 @@
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**
 
 - 👯 I’m looking to collaborate on **projects such as related to c,c++.
-- 📝 I regularly write articles on [https://nasimislam397@gmail.com]
 
 - 💬 Ask me about **C,C++**
 
